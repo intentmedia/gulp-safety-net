@@ -1,0 +1,47 @@
+{
+  "name": "gulp-safety-net",
+  "version": "1.0.0",
+  "description": "Exception safe javascript wrapper",
+  "license": "MIT",
+  "author": {
+    "name": "Adrian Bruinhout",
+    "email": "adrian@webfella.com.au",
+    "url": "http://github.com/webfella"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intentmedia/gulp-safety-net"
+  },
+  "homepage": "https://github.com/intentmedia/gulp-safety-net",
+  "bugs": {
+    "url": "https://github.com/intentmedia/gulp-safety-net/issues"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "safe",
+    "error",
+    "exception",
+    "trycatch",
+    "js",
+    "javascript",
+    "ecmascript"
+  ],
+  "dependencies": {
+    "extend": "^2.0.0",
+    "gulp-util": "^3.0.3",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
