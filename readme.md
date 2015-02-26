@@ -1,6 +1,8 @@
-# gulp-safety-net
+# gulp-safety-net [![Build Status](https://travis-ci.org/intentmedia/gulp-safety-net.svg?branch=master)](https://travis-ci.org/intentmedia/gulp-safety-net) [![Dependencies](https://david-dm.org/intentmedia/gulp-safety-net.svg)](https://david-dm.org/intentmedia/gulp-safety-net)
 
 > Exception safe javascript wrapper
+
+Wraps files in a try/catch statement to not expose errors.
 
 ## Install
 
